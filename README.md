@@ -1,4 +1,4 @@
-# Wireless_Communications
+# Erlang_B_module
 Wireless_Communications Project: Erlang B module and try different Handoff Policy
 
 Project1: Simulate a Erlang B module and count Blocking Probability
